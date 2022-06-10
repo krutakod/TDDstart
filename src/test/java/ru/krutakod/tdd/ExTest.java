@@ -8,7 +8,7 @@ public class ExTest {
 
     @Test
     public void exTestMethod() {
-        assertEquals(2, 1);
+        assertEquals(1, 1);
     }
 
 }
