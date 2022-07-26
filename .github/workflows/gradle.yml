@@ -1,4 +1,4 @@
-name: Tdd CI
+name: Build and tests
 on: [push, pull_request]
 jobs:
   build:
